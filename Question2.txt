@@ -1,0 +1,11 @@
+Write a program to store 6 elements in an array P and 4 elements in an array Q.
+Now, produce a third array R, containing all the elements of array P and Q.
+Display the resultant array.
+
+Input 
+P = {1, 2, 3, -4, -5, -6}
+Q = {-7, 8, -9, 10}
+
+Output 
+R = {1, 2, 3, -4, -5, -6, -7, 8, -9, 10}
+ 

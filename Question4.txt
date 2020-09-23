@@ -1,0 +1,9 @@
+Write a program to accept a list of 10 Country’s name and then display name
+alphabetically.
+
+Input
+Russia Canada China Brazil Australia India Argentina Kazakhstan Sudan Congo
+
+Output
+The names sorted alphabetically:
+Argentina, Australia, Brazil, Canada, China, Congo, India, Kazakhstan, Russia, Sudan,

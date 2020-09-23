@@ -1,0 +1,19 @@
+Write a program to accept 10 different decimal numbers (double data type) in a
+Single Dimensional Array (say, A). Truncate the fractional part of each number
+of the array A and store their integer part in another array (say, B).
+
+Input:
+159.112
+130.345
+216.34
+713.901	
+8.378
+35.7
+638.290
+341.823	
+16.296	
+966.405
+
+Output:
+Integer part of all numbers after truncating decimal part truncated = 
+159, 130, 216, 713, 8, 35, 638, 341, 16, 966,
