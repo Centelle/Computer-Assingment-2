@@ -1,10 +1,7 @@
 import java.util.Scanner;
 public class Task5 {
     /**
-     * remove comment later if you goign to YOIINKK this code, 
-     * s1mple and correct approach to solve problem 5 of the assignment
-     * check Task5_wrong and Task5_fix for a challenging part to this question
-     * 
+     * Challenge: Separate the integer and the decimal part of the number and print both
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
